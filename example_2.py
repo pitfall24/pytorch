@@ -1,7 +1,9 @@
 import os
 import torch
-import math, sys, os, time
+import math, sys, os, time, matplotlib
 import numpy as np
+import matplotlib
+import matplotlib.pyplot as plt
 
 iterations = 2000
 
